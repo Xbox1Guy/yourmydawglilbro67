@@ -22,7 +22,7 @@ const seasonData = {
         title: "Episode 1: Overture",
         description: "Charlie pitches her plan to rehabilitate sinners to Heaven. Vaggie creates a commercial to promote the hotel, with disastrous results.",
         thumbnail: "https://files.catbox.moe/vw6i1j.jpg",
-        url: "https://player.vimeo.com/video/1132844640?autoplay=1&playsinline=1", // ✅ Vimeo URL
+        url: "https://player.vimeo.com/video/1132846984?autoplay=1&playsinline=1", // ✅ Vimeo URL
         subtitles: "subtitles/Hazbin-Hotel-s1-e1_1080p.en.vtt"
       },
       {
