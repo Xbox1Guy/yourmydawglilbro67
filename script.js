@@ -97,13 +97,13 @@ const seasonData = {
         title: "Episode 3: Hazbin Hotel: Behind Closed Doors",
         description: "Charlie invites Voxtek to do a piece on the Hotel and Pentious' redemption. But she will need hard proof to convince her skeptical guests.",
         thumbnail: "https://files.catbox.moe/svs231.png",
-        airDate: "2025-11-05" // ✅ KEPT: This will remain grayed out
+        url: "https://player.vimeo.com/video/1133784059"
       },
       {
         title: "Episode 4: It's A Deal",
         description: "Charlie tries to do damage control by going live on television! Meanwhile, Alastor reaches his final straw.",
         thumbnail: "https://files.catbox.moe/hb91sh.png",
-        airDate: "2025-11-05" // ✅ KEPT: This will remain grayed out
+        url: "https://player.vimeo.com/video/1133784794"
       },
       {
         title: "Episode 5: Silenced",
@@ -377,4 +377,5 @@ window.addEventListener("DOMContentLoaded", () => {
   document.body.style.opacity = 0;
   document.body.style.transition = "opacity 420ms ease";
   requestAnimationFrame(() => (document.body.style.opacity = 1));
+
 });
